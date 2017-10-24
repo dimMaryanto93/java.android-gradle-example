@@ -1,0 +1,13 @@
+# jetbraints
+.idea
+*.iml
+/.idea/workspace.xml
+/.idea/libraries
+
+# gradle ignore
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
